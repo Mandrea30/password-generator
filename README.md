@@ -15,7 +15,7 @@ The user has a selection of choices to generate their password:
 ---
 ![Password Generator](https://user-images.githubusercontent.com/93743349/149700310-10286940-67a3-4aab-b513-c9ca9976c5cb.png)
 
-Should the user decide not to place a number, the application will ask him to choose one ans start again.
+Should the user decide not to place a number, the application will ask to choose one and start again.
 
 ![start over](https://user-images.githubusercontent.com/93743349/149700388-6ab45a5a-a27f-4599-b3a7-e7e5c7fc61ba.png)
 
@@ -27,6 +27,6 @@ Should the user decide not to place a number, the application will ask him to ch
 * _Eloquent Javascript_ by Marijn Haverbeke
 
 ## Links
-* Repository: https://github.com/Mandrea30/password-generator
-* Deployed Application:
+* [Github Repository] (https://github.com/Mandrea30/password-generator)
+* [Deployed Application] (https://mandrea30.github.io/password-generator/)
 
